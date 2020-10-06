@@ -1,0 +1,11 @@
+package linkserver;
+
+import java.io.IOException;
+
+public class ts {
+	  public static void main(String [] args)
+	   {
+		  int port = Integer.parseInt(args[0]);
+	     System.out.print(port);
+	   }
+}

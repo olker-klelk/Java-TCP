@@ -1,0 +1,12 @@
+package linkserver;
+
+import java.io.IOException;
+import java.net.*;
+import java.io.*;
+public class ts {
+	  public static void main(String args[])
+	   {
+		  
+	     System.out.print("ARGS:"+args[1]);
+	   }
+}
